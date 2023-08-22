@@ -1,0 +1,780 @@
+{
+  "flag_id_description": "Flag ID is 'Username', flag is 'Flag'.",
+  "flag_ids": {
+    "1": {
+      "flag_ids": [],
+      "host": "training.team1.training.ctf.hitb.org"
+    },
+    "10": {
+      "flag_ids": [],
+      "host": "training.team10.training.ctf.hitb.org"
+    },
+    "100": {
+      "flag_ids": [],
+      "host": "training.team100.training.ctf.hitb.org"
+    },
+    "101": {
+      "flag_ids": [],
+      "host": "training.team101.training.ctf.hitb.org"
+    },
+    "102": {
+      "flag_ids": [],
+      "host": "training.team102.training.ctf.hitb.org"
+    },
+    "103": {
+      "flag_ids": [],
+      "host": "training.team103.training.ctf.hitb.org"
+    },
+    "104": {
+      "flag_ids": [],
+      "host": "training.team104.training.ctf.hitb.org"
+    },
+    "105": {
+      "flag_ids": [],
+      "host": "training.team105.training.ctf.hitb.org"
+    },
+    "106": {
+      "flag_ids": [],
+      "host": "training.team106.training.ctf.hitb.org"
+    },
+    "107": {
+      "flag_ids": [],
+      "host": "training.team107.training.ctf.hitb.org"
+    },
+    "108": {
+      "flag_ids": [],
+      "host": "training.team108.training.ctf.hitb.org"
+    },
+    "109": {
+      "flag_ids": [],
+      "host": "training.team109.training.ctf.hitb.org"
+    },
+    "11": {
+      "flag_ids": [],
+      "host": "training.team11.training.ctf.hitb.org"
+    },
+    "110": {
+      "flag_ids": [],
+      "host": "training.team110.training.ctf.hitb.org"
+    },
+    "111": {
+      "flag_ids": [],
+      "host": "training.team111.training.ctf.hitb.org"
+    },
+    "112": {
+      "flag_ids": [],
+      "host": "training.team112.training.ctf.hitb.org"
+    },
+    "113": {
+      "flag_ids": [],
+      "host": "training.team113.training.ctf.hitb.org"
+    },
+    "114": {
+      "flag_ids": [],
+      "host": "training.team114.training.ctf.hitb.org"
+    },
+    "115": {
+      "flag_ids": [],
+      "host": "training.team115.training.ctf.hitb.org"
+    },
+    "116": {
+      "flag_ids": [],
+      "host": "training.team116.training.ctf.hitb.org"
+    },
+    "117": {
+      "flag_ids": [],
+      "host": "training.team117.training.ctf.hitb.org"
+    },
+    "118": {
+      "flag_ids": [],
+      "host": "training.team118.training.ctf.hitb.org"
+    },
+    "119": {
+      "flag_ids": [],
+      "host": "training.team119.training.ctf.hitb.org"
+    },
+    "12": {
+      "flag_ids": [],
+      "host": "training.team12.training.ctf.hitb.org"
+    },
+    "120": {
+      "flag_ids": [],
+      "host": "training.team120.training.ctf.hitb.org"
+    },
+    "121": {
+      "flag_ids": [],
+      "host": "training.team121.training.ctf.hitb.org"
+    },
+    "122": {
+      "flag_ids": [],
+      "host": "training.team122.training.ctf.hitb.org"
+    },
+    "123": {
+      "flag_ids": [],
+      "host": "training.team123.training.ctf.hitb.org"
+    },
+    "124": {
+      "flag_ids": [],
+      "host": "training.team124.training.ctf.hitb.org"
+    },
+    "125": {
+      "flag_ids": [],
+      "host": "training.team125.training.ctf.hitb.org"
+    },
+    "126": {
+      "flag_ids": [],
+      "host": "training.team126.training.ctf.hitb.org"
+    },
+    "127": {
+      "flag_ids": [],
+      "host": "training.team127.training.ctf.hitb.org"
+    },
+    "128": {
+      "flag_ids": [],
+      "host": "training.team128.training.ctf.hitb.org"
+    },
+    "129": {
+      "flag_ids": [],
+      "host": "training.team129.training.ctf.hitb.org"
+    },
+    "13": {
+      "flag_ids": [],
+      "host": "training.team13.training.ctf.hitb.org"
+    },
+    "130": {
+      "flag_ids": [],
+      "host": "training.team130.training.ctf.hitb.org"
+    },
+    "131": {
+      "flag_ids": [],
+      "host": "training.team131.training.ctf.hitb.org"
+    },
+    "132": {
+      "flag_ids": [],
+      "host": "training.team132.training.ctf.hitb.org"
+    },
+    "133": {
+      "flag_ids": [],
+      "host": "training.team133.training.ctf.hitb.org"
+    },
+    "134": {
+      "flag_ids": [],
+      "host": "training.team134.training.ctf.hitb.org"
+    },
+    "135": {
+      "flag_ids": [],
+      "host": "training.team135.training.ctf.hitb.org"
+    },
+    "136": {
+      "flag_ids": [],
+      "host": "training.team136.training.ctf.hitb.org"
+    },
+    "137": {
+      "flag_ids": [],
+      "host": "training.team137.training.ctf.hitb.org"
+    },
+    "138": {
+      "flag_ids": [],
+      "host": "training.team138.training.ctf.hitb.org"
+    },
+    "139": {
+      "flag_ids": [],
+      "host": "training.team139.training.ctf.hitb.org"
+    },
+    "14": {
+      "flag_ids": [],
+      "host": "training.team14.training.ctf.hitb.org"
+    },
+    "140": {
+      "flag_ids": [],
+      "host": "training.team140.training.ctf.hitb.org"
+    },
+    "141": {
+      "flag_ids": [],
+      "host": "training.team141.training.ctf.hitb.org"
+    },
+    "142": {
+      "flag_ids": [],
+      "host": "training.team142.training.ctf.hitb.org"
+    },
+    "143": {
+      "flag_ids": [],
+      "host": "training.team143.training.ctf.hitb.org"
+    },
+    "144": {
+      "flag_ids": [],
+      "host": "training.team144.training.ctf.hitb.org"
+    },
+    "145": {
+      "flag_ids": [],
+      "host": "training.team145.training.ctf.hitb.org"
+    },
+    "146": {
+      "flag_ids": [],
+      "host": "training.team146.training.ctf.hitb.org"
+    },
+    "147": {
+      "flag_ids": [],
+      "host": "training.team147.training.ctf.hitb.org"
+    },
+    "148": {
+      "flag_ids": [],
+      "host": "training.team148.training.ctf.hitb.org"
+    },
+    "149": {
+      "flag_ids": [],
+      "host": "training.team149.training.ctf.hitb.org"
+    },
+    "15": {
+      "flag_ids": [],
+      "host": "training.team15.training.ctf.hitb.org"
+    },
+    "150": {
+      "flag_ids": [],
+      "host": "training.team150.training.ctf.hitb.org"
+    },
+    "151": {
+      "flag_ids": [],
+      "host": "training.team151.training.ctf.hitb.org"
+    },
+    "152": {
+      "flag_ids": [],
+      "host": "training.team152.training.ctf.hitb.org"
+    },
+    "153": {
+      "flag_ids": [],
+      "host": "training.team153.training.ctf.hitb.org"
+    },
+    "154": {
+      "flag_ids": [],
+      "host": "training.team154.training.ctf.hitb.org"
+    },
+    "155": {
+      "flag_ids": [],
+      "host": "training.team155.training.ctf.hitb.org"
+    },
+    "156": {
+      "flag_ids": [],
+      "host": "training.team156.training.ctf.hitb.org"
+    },
+    "157": {
+      "flag_ids": [],
+      "host": "training.team157.training.ctf.hitb.org"
+    },
+    "158": {
+      "flag_ids": [],
+      "host": "training.team158.training.ctf.hitb.org"
+    },
+    "159": {
+      "flag_ids": [
+        "e9gg9npz",
+        "5j2gxdxc",
+        "p4lpeotb",
+        "i82j1i2v",
+        "7ww2shzq",
+        "z2syerwp",
+        "zutclxai",
+        "i6d6kl29",
+        "lpx00x1t",
+        "9dsmtxfr",
+        "q6i5ozdc",
+        "on9ionwf",
+        "5yagogbw",
+        "5g4i9e5m",
+        "h1fva6f1"
+      ],
+      "host": "training.team159.training.ctf.hitb.org"
+    },
+    "16": {
+      "flag_ids": [],
+      "host": "training.team16.training.ctf.hitb.org"
+    },
+    "160": {
+      "flag_ids": [
+        "p1galce8",
+        "5gbuc6nx",
+        "ce681sq1",
+        "hqszz72p",
+        "l9klesay",
+        "yfs1djt8",
+        "p6i5xyho",
+        "6tqje8xy",
+        "ckop689z",
+        "h5ju8h46",
+        "vrk0m7sl",
+        "czjjsxpc",
+        "0u8cl8ji",
+        "ah0pp1yv",
+        "fposvekg"
+      ],
+      "host": "training.team160.training.ctf.hitb.org"
+    },
+    "161": {
+      "flag_ids": [],
+      "host": "training.team161.training.ctf.hitb.org"
+    },
+    "162": {
+      "flag_ids": [],
+      "host": "training.team162.training.ctf.hitb.org"
+    },
+    "163": {
+      "flag_ids": [],
+      "host": "training.team163.training.ctf.hitb.org"
+    },
+    "164": {
+      "flag_ids": [],
+      "host": "training.team164.training.ctf.hitb.org"
+    },
+    "17": {
+      "flag_ids": [],
+      "host": "training.team17.training.ctf.hitb.org"
+    },
+    "18": {
+      "flag_ids": [],
+      "host": "training.team18.training.ctf.hitb.org"
+    },
+    "19": {
+      "flag_ids": [],
+      "host": "training.team19.training.ctf.hitb.org"
+    },
+    "2": {
+      "flag_ids": [
+        "uo234rtm",
+        "ds7dyecl",
+        "65h6tvaa",
+        "4bs53vrq",
+        "i30fpcbm",
+        "3zhjlpve",
+        "n8m7iq01",
+        "trru3aaz",
+        "8cyngd2w",
+        "zriiuemt",
+        "q4j5p43a",
+        "z7p87bwh",
+        "141shy6g",
+        "fsnuxtl4"
+      ],
+      "host": "training.team2.training.ctf.hitb.org"
+    },
+    "20": {
+      "flag_ids": [],
+      "host": "training.team20.training.ctf.hitb.org"
+    },
+    "21": {
+      "flag_ids": [],
+      "host": "training.team21.training.ctf.hitb.org"
+    },
+    "22": {
+      "flag_ids": [],
+      "host": "training.team22.training.ctf.hitb.org"
+    },
+    "23": {
+      "flag_ids": [],
+      "host": "training.team23.training.ctf.hitb.org"
+    },
+    "24": {
+      "flag_ids": [],
+      "host": "training.team24.training.ctf.hitb.org"
+    },
+    "25": {
+      "flag_ids": [],
+      "host": "training.team25.training.ctf.hitb.org"
+    },
+    "250": {
+      "flag_ids": [
+        "u7oawcrw",
+        "0kplnelp",
+        "wgefheln",
+        "c9iagqcd",
+        "dmstscqb",
+        "gwv5iewm",
+        "hcaif7g2",
+        "p8bg524j",
+        "vwtc96ax",
+        "a9ztizyo",
+        "b3bg3r20",
+        "z5foi1vc",
+        "tyh8cv5f",
+        "dpgkw6ps",
+        "blf1svgf"
+      ],
+      "host": "training.team250.training.ctf.hitb.org"
+    },
+    "251": {
+      "flag_ids": [],
+      "host": "training.team251.training.ctf.hitb.org"
+    },
+    "26": {
+      "flag_ids": [],
+      "host": "training.team26.training.ctf.hitb.org"
+    },
+    "27": {
+      "flag_ids": [],
+      "host": "training.team27.training.ctf.hitb.org"
+    },
+    "28": {
+      "flag_ids": [],
+      "host": "training.team28.training.ctf.hitb.org"
+    },
+    "29": {
+      "flag_ids": [],
+      "host": "training.team29.training.ctf.hitb.org"
+    },
+    "3": {
+      "flag_ids": [],
+      "host": "training.team3.training.ctf.hitb.org"
+    },
+    "30": {
+      "flag_ids": [],
+      "host": "training.team30.training.ctf.hitb.org"
+    },
+    "31": {
+      "flag_ids": [],
+      "host": "training.team31.training.ctf.hitb.org"
+    },
+    "32": {
+      "flag_ids": [],
+      "host": "training.team32.training.ctf.hitb.org"
+    },
+    "33": {
+      "flag_ids": [],
+      "host": "training.team33.training.ctf.hitb.org"
+    },
+    "34": {
+      "flag_ids": [],
+      "host": "training.team34.training.ctf.hitb.org"
+    },
+    "35": {
+      "flag_ids": [],
+      "host": "training.team35.training.ctf.hitb.org"
+    },
+    "36": {
+      "flag_ids": [
+        "ujseljvp",
+        "narl7sqh",
+        "7njahc2e",
+        "qla2rvvx",
+        "7960x14q",
+        "ynoewx17",
+        "z3lhvbdh",
+        "evec602t",
+        "d2ld7frm",
+        "32jnsrf5",
+        "ii59p3ib",
+        "8mg5bq85",
+        "lq637c1s",
+        "dr9g5y0k",
+        "hkbruqfy"
+      ],
+      "host": "training.team36.training.ctf.hitb.org"
+    },
+    "37": {
+      "flag_ids": [],
+      "host": "training.team37.training.ctf.hitb.org"
+    },
+    "38": {
+      "flag_ids": [],
+      "host": "training.team38.training.ctf.hitb.org"
+    },
+    "39": {
+      "flag_ids": [],
+      "host": "training.team39.training.ctf.hitb.org"
+    },
+    "4": {
+      "flag_ids": [],
+      "host": "training.team4.training.ctf.hitb.org"
+    },
+    "40": {
+      "flag_ids": [],
+      "host": "training.team40.training.ctf.hitb.org"
+    },
+    "41": {
+      "flag_ids": [],
+      "host": "training.team41.training.ctf.hitb.org"
+    },
+    "42": {
+      "flag_ids": [],
+      "host": "training.team42.training.ctf.hitb.org"
+    },
+    "43": {
+      "flag_ids": [],
+      "host": "training.team43.training.ctf.hitb.org"
+    },
+    "44": {
+      "flag_ids": [],
+      "host": "training.team44.training.ctf.hitb.org"
+    },
+    "45": {
+      "flag_ids": [],
+      "host": "training.team45.training.ctf.hitb.org"
+    },
+    "46": {
+      "flag_ids": [],
+      "host": "training.team46.training.ctf.hitb.org"
+    },
+    "47": {
+      "flag_ids": [],
+      "host": "training.team47.training.ctf.hitb.org"
+    },
+    "48": {
+      "flag_ids": [],
+      "host": "training.team48.training.ctf.hitb.org"
+    },
+    "49": {
+      "flag_ids": [],
+      "host": "training.team49.training.ctf.hitb.org"
+    },
+    "5": {
+      "flag_ids": [],
+      "host": "training.team5.training.ctf.hitb.org"
+    },
+    "50": {
+      "flag_ids": [],
+      "host": "training.team50.training.ctf.hitb.org"
+    },
+    "51": {
+      "flag_ids": [],
+      "host": "training.team51.training.ctf.hitb.org"
+    },
+    "52": {
+      "flag_ids": [],
+      "host": "training.team52.training.ctf.hitb.org"
+    },
+    "53": {
+      "flag_ids": [],
+      "host": "training.team53.training.ctf.hitb.org"
+    },
+    "54": {
+      "flag_ids": [],
+      "host": "training.team54.training.ctf.hitb.org"
+    },
+    "55": {
+      "flag_ids": [],
+      "host": "training.team55.training.ctf.hitb.org"
+    },
+    "56": {
+      "flag_ids": [],
+      "host": "training.team56.training.ctf.hitb.org"
+    },
+    "57": {
+      "flag_ids": [],
+      "host": "training.team57.training.ctf.hitb.org"
+    },
+    "58": {
+      "flag_ids": [],
+      "host": "training.team58.training.ctf.hitb.org"
+    },
+    "59": {
+      "flag_ids": [],
+      "host": "training.team59.training.ctf.hitb.org"
+    },
+    "6": {
+      "flag_ids": [],
+      "host": "training.team6.training.ctf.hitb.org"
+    },
+    "60": {
+      "flag_ids": [],
+      "host": "training.team60.training.ctf.hitb.org"
+    },
+    "61": {
+      "flag_ids": [
+        "w8ea5edo",
+        "kafm9ac6",
+        "zizymtkp",
+        "ow4qneew",
+        "3hsjlexp",
+        "iifhgppi",
+        "3rcmyeu3",
+        "x5k0a454",
+        "tq63srrq",
+        "7m11tbvw",
+        "a3g4jckk",
+        "hayckwr5",
+        "2o6myf09",
+        "ca1g59ad",
+        "smjr3rpr"
+      ],
+      "host": "training.team61.training.ctf.hitb.org"
+    },
+    "62": {
+      "flag_ids": [
+        "5v45mjom",
+        "c7wckn05",
+        "6ghkq3ha",
+        "pa9jugek",
+        "qm1fbuip",
+        "vqu0dr7g",
+        "80645758",
+        "uun8cyaf",
+        "p9t8y0uk",
+        "wcfnrgqx",
+        "keoaz3sw",
+        "lfchqkhx",
+        "nie5pttm",
+        "5wx7pir4",
+        "kfh182dj"
+      ],
+      "host": "training.team62.training.ctf.hitb.org"
+    },
+    "63": {
+      "flag_ids": [],
+      "host": "training.team63.training.ctf.hitb.org"
+    },
+    "64": {
+      "flag_ids": [],
+      "host": "training.team64.training.ctf.hitb.org"
+    },
+    "65": {
+      "flag_ids": [],
+      "host": "training.team65.training.ctf.hitb.org"
+    },
+    "66": {
+      "flag_ids": [],
+      "host": "training.team66.training.ctf.hitb.org"
+    },
+    "67": {
+      "flag_ids": [],
+      "host": "training.team67.training.ctf.hitb.org"
+    },
+    "68": {
+      "flag_ids": [],
+      "host": "training.team68.training.ctf.hitb.org"
+    },
+    "69": {
+      "flag_ids": [],
+      "host": "training.team69.training.ctf.hitb.org"
+    },
+    "7": {
+      "flag_ids": [],
+      "host": "training.team7.training.ctf.hitb.org"
+    },
+    "70": {
+      "flag_ids": [],
+      "host": "training.team70.training.ctf.hitb.org"
+    },
+    "71": {
+      "flag_ids": [],
+      "host": "training.team71.training.ctf.hitb.org"
+    },
+    "72": {
+      "flag_ids": [],
+      "host": "training.team72.training.ctf.hitb.org"
+    },
+    "73": {
+      "flag_ids": [],
+      "host": "training.team73.training.ctf.hitb.org"
+    },
+    "74": {
+      "flag_ids": [],
+      "host": "training.team74.training.ctf.hitb.org"
+    },
+    "75": {
+      "flag_ids": [],
+      "host": "training.team75.training.ctf.hitb.org"
+    },
+    "76": {
+      "flag_ids": [],
+      "host": "training.team76.training.ctf.hitb.org"
+    },
+    "77": {
+      "flag_ids": [],
+      "host": "training.team77.training.ctf.hitb.org"
+    },
+    "78": {
+      "flag_ids": [],
+      "host": "training.team78.training.ctf.hitb.org"
+    },
+    "79": {
+      "flag_ids": [],
+      "host": "training.team79.training.ctf.hitb.org"
+    },
+    "8": {
+      "flag_ids": [],
+      "host": "training.team8.training.ctf.hitb.org"
+    },
+    "80": {
+      "flag_ids": [],
+      "host": "training.team80.training.ctf.hitb.org"
+    },
+    "81": {
+      "flag_ids": [],
+      "host": "training.team81.training.ctf.hitb.org"
+    },
+    "82": {
+      "flag_ids": [],
+      "host": "training.team82.training.ctf.hitb.org"
+    },
+    "83": {
+      "flag_ids": [],
+      "host": "training.team83.training.ctf.hitb.org"
+    },
+    "84": {
+      "flag_ids": [],
+      "host": "training.team84.training.ctf.hitb.org"
+    },
+    "85": {
+      "flag_ids": [],
+      "host": "training.team85.training.ctf.hitb.org"
+    },
+    "86": {
+      "flag_ids": [],
+      "host": "training.team86.training.ctf.hitb.org"
+    },
+    "87": {
+      "flag_ids": [],
+      "host": "training.team87.training.ctf.hitb.org"
+    },
+    "88": {
+      "flag_ids": [],
+      "host": "training.team88.training.ctf.hitb.org"
+    },
+    "89": {
+      "flag_ids": [],
+      "host": "training.team89.training.ctf.hitb.org"
+    },
+    "9": {
+      "flag_ids": [],
+      "host": "training.team9.training.ctf.hitb.org"
+    },
+    "90": {
+      "flag_ids": [],
+      "host": "training.team90.training.ctf.hitb.org"
+    },
+    "91": {
+      "flag_ids": [],
+      "host": "training.team91.training.ctf.hitb.org"
+    },
+    "92": {
+      "flag_ids": [],
+      "host": "training.team92.training.ctf.hitb.org"
+    },
+    "93": {
+      "flag_ids": [],
+      "host": "training.team93.training.ctf.hitb.org"
+    },
+    "94": {
+      "flag_ids": [],
+      "host": "training.team94.training.ctf.hitb.org"
+    },
+    "95": {
+      "flag_ids": [],
+      "host": "training.team95.training.ctf.hitb.org"
+    },
+    "96": {
+      "flag_ids": [],
+      "host": "training.team96.training.ctf.hitb.org"
+    },
+    "97": {
+      "flag_ids": [],
+      "host": "training.team97.training.ctf.hitb.org"
+    },
+    "98": {
+      "flag_ids": [],
+      "host": "training.team98.training.ctf.hitb.org"
+    },
+    "99": {
+      "flag_ids": [],
+      "host": "training.team99.training.ctf.hitb.org"
+    }
+  }
+}
